@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2018-02-06T16:12:14Z" product-name="car_data">
+		<header/>
+		<body>
+			<trans-unit id="manufacturer.description">
+				<source>manufacturer</source>
+			</trans-unit>
+			<trans-unit id="model.description">
+				<source>model</source>
+			</trans-unit>
+			<trans-unit id="year.description">
+				<source>year</source>
+			</trans-unit>
+			<trans-unit id="class.description">
+				<source>class</source>
+			</trans-unit>
+			<trans-unit id="fuel_type.description">
+				<source>fuelType</source>
+			</trans-unit>
+			<trans-unit id="savings.description">
+				<source>savings</source>
+			</trans-unit>
+			<trans-unit id="cylinders.description">
+				<source>cylinders</source>
+			</trans-unit>
+			<trans-unit id="city_m_p_g.description">
+				<source>cityMPG</source>
+			</trans-unit>
+			<trans-unit id="highway_m_p_g.description">
+				<source>highwayMPG</source>
+			</trans-unit>
+			<trans-unit id="combined_m_p_g.description">
+				<source>combinedMPG</source>
+			</trans-unit>
+			<trans-unit id="fuel_cost.description">
+				<source>fuelCost</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

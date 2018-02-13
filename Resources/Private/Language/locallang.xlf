@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2018-02-06T16:12:14Z" product-name="car_data">
+		<header/>
+		<body>
+			<trans-unit id="tx_cardata_domain_model_manufacturer">
+				<source>Manufacturer</source>
+			</trans-unit>
+			<trans-unit id="tx_cardata_domain_model_manufacturer.name">
+				<source>Name</source>
+			</trans-unit>
+			<trans-unit id="tx_cardata_domain_model_manufacturer.country">
+				<source>Country</source>
+			</trans-unit>
+			<trans-unit id="tx_cardata_domain_model_manufacturer.company_info">
+				<source>Company Info</source>
+			</trans-unit>
+			<trans-unit id="tx_cardata_domain_model_car">
+				<source>Car</source>
+			</trans-unit>
+			<trans-unit id="tx_cardata_domain_model_car.manufacturer">
+				<source>Manufacturer</source>
+			</trans-unit>
+			<trans-unit id="tx_cardata_domain_model_car.model">
+				<source>Model</source>
+			</trans-unit>
+			<trans-unit id="tx_cardata_domain_model_car.year">
+				<source>Year</source>
+			</trans-unit>
+			<trans-unit id="tx_cardata_domain_model_car.class">
+				<source>Class</source>
+			</trans-unit>
+			<trans-unit id="tx_cardata_domain_model_car.fuel_type">
+				<source>Fuel Type</source>
+			</trans-unit>
+			<trans-unit id="tx_cardata_domain_model_car.savings">
+				<source>Savings</source>
+			</trans-unit>
+			<trans-unit id="tx_cardata_domain_model_car.cylinders">
+				<source>Cylinders</source>
+			</trans-unit>
+			<trans-unit id="tx_cardata_domain_model_car.city_m_p_g">
+				<source>City M P G</source>
+			</trans-unit>
+			<trans-unit id="tx_cardata_domain_model_car.highway_m_p_g">
+				<source>Highway M P G</source>
+			</trans-unit>
+			<trans-unit id="tx_cardata_domain_model_car.combined_m_p_g">
+				<source>Combined M P G</source>
+			</trans-unit>
+			<trans-unit id="tx_cardata_domain_model_car.fuel_cost">
+				<source>Fuel Cost</source>
+			</trans-unit>
+			<trans-unit id="tx_cardata_domain_model_emission">
+				<source>Emission</source>
+			</trans-unit>
+			<trans-unit id="tx_cardata_domain_model_emission.car">
+				<source>Car</source>
+			</trans-unit>
+			<trans-unit id="tx_cardata_domain_model_emission.sale_area">
+				<source>Sale Area</source>
+			</trans-unit>
+			<trans-unit id="tx_cardata_domain_model_emission.score">
+				<source>Score</source>
+			</trans-unit>
+			<trans-unit id="tx_cardata_domain_model_emission.cogpm">
+				<source>Cogpm</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

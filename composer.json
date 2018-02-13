@@ -1,0 +1,14 @@
+{
+    "name": "envauto/car-data",
+    "type": "typo3-cms-extension",
+    "description": "This extension holds the data from the EPA website.This data gets returned to the front end as a JSON object and the data will be displayed in a table.",
+    "authors": [],
+    "require": {
+        "typo3/cms-core": "^8.7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Envauto\\CarData\\": "Classes"
+        }
+    }
+}
